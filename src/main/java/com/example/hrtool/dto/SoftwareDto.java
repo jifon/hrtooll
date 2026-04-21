@@ -1,0 +1,16 @@
+package com.example.hrtool.dto;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class SoftwareDto {
+    private String name;
+    private String category;
+    private String license;
+    private String version;
+}
+

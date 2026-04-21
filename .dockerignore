@@ -1,0 +1,7 @@
+.idea
+.gitignore
+.git
+.editorconfig
+*.zip
+**/test
+../hrtool-setup/Docker-Compose/HR_DB/docker-compose.yml
